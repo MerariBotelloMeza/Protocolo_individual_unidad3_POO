@@ -1,3 +1,5 @@
+package Taller_11;
+
 public class Vendedor extends Empleado{
     double salarioBase;
     double Ventas;

@@ -1,3 +1,5 @@
+package Taller_11;
+
 public class Gerente extends Empleado {
     double salario;
 
