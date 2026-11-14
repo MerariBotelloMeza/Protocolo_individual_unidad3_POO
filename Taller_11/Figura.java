@@ -1,3 +1,5 @@
+package Taller_11;
+
 public abstract class Figura {
 
    public abstract double calcularArea();
@@ -6,3 +8,4 @@ public abstract class Figura {
         System.out.println("El área de la figura es: " + calcularArea());
     }
 }
+

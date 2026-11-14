@@ -1,3 +1,5 @@
+package Taller_11;
+
 public class Rectangulo extends Figura {
 
     double base;
