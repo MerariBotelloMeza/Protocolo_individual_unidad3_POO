@@ -17,7 +17,7 @@ public class Empleado implements tejedora {
 
     @Override
     public void tejer(){
-        System.out.println("los artista musicales deben cantar");
+        System.out.println("el empleado puede tejer");
     }
 
 }
